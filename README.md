@@ -1,4 +1,4 @@
-# Taylor Swift Lyrics Visualizer 🎵✨
+# Taylor Swift Lyrics Visualizer 
 
 A beautiful Streamlit web application that allows users to visualize Taylor Swift's song lyrics as word clouds.
 
@@ -6,11 +6,11 @@ A beautiful Streamlit web application that allows users to visualize Taylor Swif
 
 ## Features
 
-- 🔍 Search for any Taylor Swift song by title
-- 📝 View the complete lyrics in a stylish, scrollable container
-- 🌈 Generate a beautiful word cloud visualization of the lyrics
-- 💾 Download the generated word cloud as an image
-- 🎨 Enjoy a visually appealing UI with Taylor Swift-inspired design
+-  Search for any Taylor Swift song by title
+-  View the complete lyrics in a stylish, scrollable container
+-  Generate a beautiful word cloud visualization of the lyrics
+-  Download the generated word cloud as an image
+-  Enjoy a visually appealing UI with Taylor Swift-inspired design
 
 ## Tech Stack
 
